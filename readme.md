@@ -1,1 +1,1 @@
-![Preview](img.png)
+![Preview](pi_convergence.png)
